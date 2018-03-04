@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "ブレイクスルー",
+    "description": "Extension name"
+  },
+  "extShortName": {
+    "message": "ブレスル",
+    "description": "Short Extension name"
+  },
+  "appNotSupported": {
+    "message": "このアプリはお使いの端末ではご利用いただけません。",
+    "description": "Message displayed when the app is not supported."
+  }
+}
